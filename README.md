@@ -1,4 +1,4 @@
-<img src="./assets/headerIcon.svg" alt="Logo" style="display:flex;width:100%; height:50px;justify-content:center;object-fit:contain; margin-bottom:15px" >
+<img src="./assets/headerIcon.svg" alt="Logo" style="display:flex;width:100%; height:40px;justify-content:center;object-fit:contain; margin-bottom:15px" >
 
 # Notimy 
 
